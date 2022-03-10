@@ -13,7 +13,7 @@ firebase login
 #Install axios
 npm install axios
 
-#run the emulator
+#change directory into the main folder before running the emulator
 firebase emulators:start
 
 #open a window with url http://localhost:4000/ or check the port you were assigned with during the init
